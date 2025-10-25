@@ -1,0 +1,74 @@
+{
+  "welcome": "Welcome to Wahfy! Together, we can make a difference.",
+  "highlights": [
+    "Education Support",
+    "Healthcare Initiatives",
+    "Livelihood Programs",
+    "Access to Water"
+  ],
+  "about-section": {
+    "title": "About Wahfy",
+    "subtitle": "Helping Each Other Can Make the World Better",
+    "description": "Wahfy is dedicated to supporting families in need, providing hope and resources when it matters most. Our mission is to empower communities through compassion, transparency, and action.",
+    "image": "/assets/img/home/about-us.jpg",
+    "vectors": [
+      "assets/img/cta-vector.svg",
+      "assets/img/about-img-vector-2.svg"
+    ],
+    "block": {
+      "left": {
+        "icon": "flaticon-love",
+        "title": "Start Helping Team",
+        "list": [
+          "We unite volunteers and donors to solve real problems.",
+          "Every contribution makes a difference in someone's life."
+        ]
+      },
+      "right_image": "assets/img/about-block-img.jpg"
+    },
+    "button": {
+      "text": "Explore More",
+      "url": "/about"
+    },
+    "call": {
+      "icon": "flaticon-telephone-call",
+      "title": "Call Any Time",
+      "phone": "+61 2345 678 990"
+    },
+    "vectors_bg": [
+      "assets/img/about-vector-1.png"
+    ]
+  },
+  "testimonials": {
+    "overview": {
+      "rating": 4.9,
+      "stars": 5,
+      "title": "5 Star Rating",
+      "description": "Wahfy has made a real difference in our community. Their dedication to helping families in need is truly inspiring.",
+      "reviewers": []
+    },
+    "reviews": [
+      {
+        "text": "Wahfy supported my family during a very difficult time. Their compassion and quick response gave us hope when we needed it most.",
+        "reviewer": {
+          "name": "Jessica Smith",
+          "role": "Mother & Beneficiary"
+        }
+      },
+      {
+        "text": "I have volunteered with Wahfy for two years. The impact we make together is incredible, and the team is like a family.",
+        "reviewer": {
+          "name": "Michael Johnson",
+          "role": "Volunteer"
+        }
+      },
+      {
+        "text": "Donating through Wahfy is easy and transparent. I know my contributions are reaching those who need them most.",
+        "reviewer": {
+          "name": "Emily Davis",
+          "role": "Donor"
+        }
+      }
+    ]
+  }
+} 
